@@ -1,0 +1,6 @@
+--find-links wheelhouse
+flask==1.0.2
+flask-cors==3.0.7
+request==2018.11.20
+geopy==1.18.0
+requests==2.21.0
